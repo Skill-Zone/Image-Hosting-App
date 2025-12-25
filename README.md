@@ -7,7 +7,7 @@ PixelFlow is a clean, modern, and fast image hosting web application built with 
 ## 🎥 Tutorial Video
 
 Watch the complete setup and usage tutorial here:  
-PASTE YOUR VIDEO LINK HERE
+https://cuty.io/OaD1pws
 
 ---
 
